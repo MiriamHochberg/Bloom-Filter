@@ -6,6 +6,6 @@ A Bloom filter is a probabilistic data structure for fast, memory-efficient memb
 
 
 ## Resources 
--`wordlist.txt` from Princeton CS Real-World Data Sets(https://introcs.cs.princeton.edu/java/data/)                          
--`BitVector.py` from Avinash Kak
-- `BitHash.py` from Professor Alan J. Broder             
+`wordlist.txt` from Princeton CS Real-World Data Sets(https://introcs.cs.princeton.edu/java/data/)                          
+`BitVector.py` from Avinash Kak
+`BitHash.py` from Professor Alan J. Broder             
