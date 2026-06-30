@@ -6,4 +6,6 @@
 
 
 ## Resources 
-#### wordlist.txt from Princeton CS Real-World Data Sets(https://introcs.cs.princeton.edu/java/data/), BitHash.py from Professor Alan J. Broder,                                                   BitVector.py from Avinash Kak
+#### `wordlist.txt` from Princeton CS Real-World Data Sets(https://introcs.cs.princeton.edu/java/data/) 
+`BitHash.py` from Professor Alan J. Broder                                              
+`BitVector.py` from Avinash Kak
